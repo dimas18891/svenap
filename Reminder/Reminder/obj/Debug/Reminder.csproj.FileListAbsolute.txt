@@ -1,0 +1,11 @@
+C:\Users\Bruce Wayne\Desktop\Reminder\Reminder\bin\Debug\Reminder.exe.config
+C:\Users\Bruce Wayne\Desktop\Reminder\Reminder\bin\Debug\Reminder.exe
+C:\Users\Bruce Wayne\Desktop\Reminder\Reminder\bin\Debug\Reminder.pdb
+C:\Users\Bruce Wayne\Desktop\Reminder\Reminder\obj\Debug\Reminder.csproj.AssemblyReference.cache
+C:\Users\Bruce Wayne\Desktop\Reminder\Reminder\obj\Debug\Reminder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruce Wayne\Desktop\Reminder\Reminder\obj\Debug\Reminder.Mainform.resources
+C:\Users\Bruce Wayne\Desktop\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+C:\Users\Bruce Wayne\Desktop\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.cache
+C:\Users\Bruce Wayne\Desktop\Reminder\Reminder\obj\Debug\Reminder.csproj.CoreCompileInputs.cache
+C:\Users\Bruce Wayne\Desktop\Reminder\Reminder\obj\Debug\Reminder.exe
+C:\Users\Bruce Wayne\Desktop\Reminder\Reminder\obj\Debug\Reminder.pdb
